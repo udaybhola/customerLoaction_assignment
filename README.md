@@ -16,6 +16,6 @@ Express.js framework for creating Node.js application
 
 Application url: http://localhost:4000/customerLocation
 
-##Seeding Data in MongoDB
+## Seeding Data in MongoDB
 When you run the program first time using npm start `db.collection.insertMany()` will populate the customers data into the database.
 After first run comment the above mentioned command on `line no. 22` to avoid redundant data.
